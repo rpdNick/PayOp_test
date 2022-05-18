@@ -16,6 +16,8 @@ body {
         padding: 40px;
         display: flex;
         justify-content: space-around;
+        max-width: 1200px;
+        margin: 0 auto;
 
         .element-box {
             margin-bottom: 50px;
