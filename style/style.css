@@ -129,7 +129,7 @@ body .page-content .progress-box .progress {
   border-radius: 50px;
   -webkit-box-shadow: 1px 1px 5px 7px rgba(66, 68, 90, 0.54);
   box-shadow: 1px 1px 5px 7px rgba(66, 68, 90, 0.54);
-  padding: 10px 15px;
+  padding: 15px 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -143,7 +143,7 @@ body .page-content .progress-box .progress {
 }
 
 body .page-content .progress-box .progress .progress__line-bg {
-  height: 10px;
+  height: 15px;
   width: 100%;
   background: #a4a4a6;
   border-radius: 10px;
@@ -153,10 +153,10 @@ body .page-content .progress-box .progress .progress__line-bg {
 
 body .page-content .progress-box .progress .progress__line-bg .progress__line {
   border-radius: 10px;
-  height: 10px;
+  height: 15px;
   background: #49a4eb;
-  -webkit-box-shadow: 1px 0px 0px 0px rgba(0, 0, 0, 0.3);
-          box-shadow: 1px 0px 0px 0px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: inset 0px 0px 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0px 0px 1px 3px rgba(0, 0, 0, 0.1);
   width: 80%;
   -webkit-transition: .1s;
   transition: .1s;
